@@ -62,7 +62,7 @@
         margin-bottom:2rem;
     }
     .about-containers,.contact-info-upper-container,.btn-container{
-        margin-top:2rem;
+        margin-top:3rem;
         flex-wrap:wrap;
     }
     .contact-info-container{
@@ -98,6 +98,5 @@
     }
     .section__text__p1{
         margin-top:3rem;
-    
-
+    }
 }
