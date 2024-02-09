@@ -96,6 +96,9 @@
     .text-container{
         text-align:justify;
     }
+    #contact{
+        padding-top:2rem;
+    }
     
 
 }
