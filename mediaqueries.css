@@ -96,9 +96,8 @@
     .text-container{
         text-align:justify;
     }
-    #contact{
-        padding-top:2rem;
-    }
+    .section__text__p1{
+        margin-top:3rem;
     
 
 }
